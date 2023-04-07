@@ -1,4 +1,6 @@
 # Rexshack Gaming Version
+
+# Reskin done by Unknown Ghostz#9131
  
 # credits
 - original resouce created by : https://github.com/qbcore-redm-framework
